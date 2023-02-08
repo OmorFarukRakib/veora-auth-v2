@@ -1,0 +1,10 @@
+{
+  "ToDoApp": {
+    "dbConfig": {
+      "host": "localhost",
+      "port": 5984,
+      "dbName": "mongodb+srv://Omor:0119900@veoraappcluster.wzuahj3.mongodb.net/?retryWrites=true&w=majority"
+    }
+  }
+}
+
